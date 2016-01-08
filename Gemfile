@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem "devise"
 gem "cocoon"
 gem "paperclip"
 gem 'bootstrap-sass'

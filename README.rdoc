@@ -2,7 +2,7 @@
 
 這是一個自我的挑戰，希望能從不斷的練習精進自己Rails的技巧
 
-用Ruby on Rails 實作 Recipe Box
+用Ruby on Rails 實作 線上食譜
 
 實作功能如下：
 
@@ -12,5 +12,5 @@
 
 * Image Uploading 圖片上傳
 
-* HAML
+* HAML模版實作
 
